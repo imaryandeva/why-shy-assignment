@@ -1,0 +1,28 @@
+body {
+	width: 100%;
+	height: 100%;
+	/* background-color: black; */
+	/* background-image: url(background-imgage.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover; */
+
+}
+
+.h-150 {
+	height: 350px;
+}
+
+.circle {
+	background-color: gray;
+	color: gray;
+	width: 1.5rem;
+	border-radius: 100%;
+	text-align: center;
+}
+
+.col-sm-4 {
+	width: 30%;
+	margin-left: auto;
+	padding: 1rem;
+}
