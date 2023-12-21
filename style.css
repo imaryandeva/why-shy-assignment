@@ -19,6 +19,7 @@ body {
 	width: 1.5rem;
 	border-radius: 100%;
 	text-align: center;
+	cursor: pointer;
 }
 
 .col-sm-4 {
